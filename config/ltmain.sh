@@ -1,0 +1,1 @@
+/devops/haijia/openwrt-ap502/staging_dir/target-mips_34kc_uClibc-0.9.33.2/../host/share/libtool/config/ltmain.sh
